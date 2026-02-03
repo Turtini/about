@@ -17,6 +17,8 @@ It exists to provide a stable point of truth for:
 - partners and practitioners
 - customers evaluating Turtini’s public work
 
+This repository is intentionally low-churn and changes infrequently to preserve its role as a stable reference.
+
 ## Related Resources
 
 - Public artifacts and labs: https://turtini.github.io
