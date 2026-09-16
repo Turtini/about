@@ -1,5 +1,7 @@
 # About Turtini
 
+**Uniting Your World. Connecting People, Places, and Things.**
+
 Turtini LLC is a U.S.-based software company and Red Hat reseller, working with organizations in public sector and regulated environments.
 
 Turtini builds operations software for a wide range of organizations—software used to run the day-to-day work of an organization rather than any single function of it.
